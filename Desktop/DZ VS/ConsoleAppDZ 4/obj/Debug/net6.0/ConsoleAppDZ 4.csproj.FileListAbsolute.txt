@@ -1,0 +1,15 @@
+C:\Users\В\source\repos\ConsoleAppDZ\ConsoleAppDZ 4\bin\Debug\net6.0\ConsoleAppDZ 4.exe
+C:\Users\В\source\repos\ConsoleAppDZ\ConsoleAppDZ 4\bin\Debug\net6.0\ConsoleAppDZ 4.deps.json
+C:\Users\В\source\repos\ConsoleAppDZ\ConsoleAppDZ 4\bin\Debug\net6.0\ConsoleAppDZ 4.runtimeconfig.json
+C:\Users\В\source\repos\ConsoleAppDZ\ConsoleAppDZ 4\bin\Debug\net6.0\ConsoleAppDZ 4.dll
+C:\Users\В\source\repos\ConsoleAppDZ\ConsoleAppDZ 4\bin\Debug\net6.0\ConsoleAppDZ 4.pdb
+C:\Users\В\source\repos\ConsoleAppDZ\ConsoleAppDZ 4\obj\Debug\net6.0\ConsoleAppDZ 4.csproj.AssemblyReference.cache
+C:\Users\В\source\repos\ConsoleAppDZ\ConsoleAppDZ 4\obj\Debug\net6.0\ConsoleAppDZ 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\В\source\repos\ConsoleAppDZ\ConsoleAppDZ 4\obj\Debug\net6.0\ConsoleAppDZ 4.AssemblyInfoInputs.cache
+C:\Users\В\source\repos\ConsoleAppDZ\ConsoleAppDZ 4\obj\Debug\net6.0\ConsoleAppDZ 4.AssemblyInfo.cs
+C:\Users\В\source\repos\ConsoleAppDZ\ConsoleAppDZ 4\obj\Debug\net6.0\ConsoleAppDZ 4.csproj.CoreCompileInputs.cache
+C:\Users\В\source\repos\ConsoleAppDZ\ConsoleAppDZ 4\obj\Debug\net6.0\ConsoleAppDZ 4.dll
+C:\Users\В\source\repos\ConsoleAppDZ\ConsoleAppDZ 4\obj\Debug\net6.0\refint\ConsoleAppDZ 4.dll
+C:\Users\В\source\repos\ConsoleAppDZ\ConsoleAppDZ 4\obj\Debug\net6.0\ConsoleAppDZ 4.pdb
+C:\Users\В\source\repos\ConsoleAppDZ\ConsoleAppDZ 4\obj\Debug\net6.0\ConsoleAppDZ 4.genruntimeconfig.cache
+C:\Users\В\source\repos\ConsoleAppDZ\ConsoleAppDZ 4\obj\Debug\net6.0\ref\ConsoleAppDZ 4.dll
